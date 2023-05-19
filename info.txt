@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Glamor-Regular
+font link: https://dribbble.com/shots/1290571-Glamor-Chic-Modern-Free-Type-Family
+font author: Hendrick Rolandez
+font author site: http://www.moinzek.com/
+Slogan Font: OFLGoudyStMTT.ttf
+
+icon designer: iconsphere
+icon designer link: /iconsphere
+        
+{"bg-gradient-0":"#8D2CE3","bg-gradient-1":"#F7C6F6","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
