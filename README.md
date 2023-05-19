@@ -6,3 +6,5 @@ new and experince and learn some new skills that I might be able to use for my f
 and there life & that's what this is exactly about one of my closet friends who I've met this year who i gotten really close with in the recent months. The website will be around photography, 
 my friend is currently intertested in the field of photography and that's something that they want to do in the future when they graduate High School. I thought this will be a very fun & enjoyable 
 project to start and do for my first collaberation with someone. 
+
+file:///C:/Users/calde/OneDrive/Desktop/ITLOM%20v2/index.html  <--- Here check out the current state of the website!!!
