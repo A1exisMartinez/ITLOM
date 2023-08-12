@@ -7,9 +7,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Six+Caps&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Six+Caps&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Six+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@1,900&family=Six+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
 
 
-/* Navigation-Bar Or Priamry Header */ 
+/* Navigation-Bar Or Priamry Header */
+
+
+span, a {
+  text-decoration: underline;
+  font-family: 'Covered By Your Grace';
+  font-display: swap;
+  font-size: 23px;
+  color: rgba(255, 255, 255, 0.863);
+  text-shadow: 1px 1px 2px black, 0 0 25px #9900ff, 0 0 5px #8f3cc7bd;
+}
 
 .flex {
   display: flex;
@@ -246,3 +261,94 @@ border: 0;
 
 
 /* LANDING PAGE */
+
+
+
+/* Photography Page */ 
+
+.photo{
+    background-image: linear-gradient(to right,#8D2CE3, #F7C6F6);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position-x: center;
+}
+
+.vivamex{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+.chinatown {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width:1000px;
+    padding-top:3%;
+}
+
+.closegraffiti {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width:500px;
+    padding-top:3%;
+}
+
+.rose {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width:1000px;
+    padding-top:3%;
+}
+
+.bike {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width:1000px;
+    padding-top:3%;
+}
+
+.butterflyrose{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width:1000px;
+    padding-top:3%;
+}
+.intime{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width:500px;
+    padding-top:3%;
+}
+.sunflower{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width:500px;
+    padding-top:3%;
+}
+.blackandwhite{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width:1000px;
+    padding-top:3%;
+}
+h1 {
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 22px;
+}
+
+.destination {
+    font-family: 'Parisienne', cursive;
+    color:black;
+}
